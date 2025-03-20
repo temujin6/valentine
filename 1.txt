@@ -1,0 +1,16 @@
+1. Git init
+
+2. Git remote add origin https://github.com/temujin6/lab2.git
+
+    git remote -v --------> githubtai holbogdson uguig shalgah
+    git remote remove origin -------> origin tagtai holbogtiig ustgah
+
+
+3. Git add .
+4. Git commit -m “comment uldeev”
+5. Git push origin main
+
+
+// 
+6. git config user.name "new name"
+7. git config credential.username "new name"
